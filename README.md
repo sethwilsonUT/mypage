@@ -1,6 +1,3 @@
 # mypage
-cool web page
-supercool
-# yoink
-squonk
-yep
+
+A super awesome web page!
